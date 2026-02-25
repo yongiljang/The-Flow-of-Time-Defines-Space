@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+type: generic
+title: "Time-Gradient Gravity & Temporal Coarse-Graining (Essay)"
+authors:
+  - family-names: "Jang"
+    given-names: "Yongil"
+    email: "yongiljang@gmail.com"
+version: "1.0"
+date-released: "2026-02-25"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/yongiljang/The-Flow-of-Time-Defines-Space"
+url: "https://github.com/yongiljang/The-Flow-of-Time-Defines-Space"
+abstract: >
+  An essay (Korean/English) exploring an intuitive interpretation of gravity as
+  a gradient of the time component of the metric in the weak-field Newtonian limit,
+  and discussing temporal coarse-graining as an interpretation aid (not a replacement)
+  in the context of quantum phenomena.
+keywords:
+  - "general relativity"
+  - "weak-field limit"
+  - "metric"
+  - "g00"
+  - "gravity"
+  - "time"
+  - "coarse-graining"
+  - "essay"
+preferred-citation:
+  type: generic
+  authors:
+    - family-names: "Jang"
+      given-names: "Yongil"
+  title: "Time-Gradient Gravity & Temporal Coarse-Graining (Essay)"
+  version: "1.0"
+  year: 2026
+  month: 2
+  day: 25
+  url: "https://github.com/yongiljang/The-Flow-of-Time-Defines-Space"
